@@ -1,0 +1,5 @@
+
+1 - Train on sets A, B, C and test on D   ---->  
+2 - Train on sets D, B, C and test on A   ----> 
+3 - Train on sets A, B, C, D and test on E ---->
+4 - Train on sets A, B, C, D, F and test on F ----> 
